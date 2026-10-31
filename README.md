@@ -18,6 +18,16 @@ I'm a Software Engineering student at [**Asia Pacific University (APU)**](https:
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
+## Contribution Snake 🐍
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hygan06/hygan06/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hygan06/hygan06/output/github-snake.svg" />
+    <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/hygan06/hygan06/output/github-snake.svg" />
+  </picture>
+</p>
+
 ## Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-hygan06-181717?style=for-the-badge&logo=github)](https://github.com/hygan06)
