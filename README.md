@@ -1,4 +1,6 @@
-# Hi, I'm Hong Yu 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7A5CFA&height=180&section=header&text=Hong%20Yu&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Colorful animated wave banner with Hong Yu's name" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Asia+Pacific+University+(APU)" alt="Typing animation: Software Engineering Student at Asia Pacific University (APU)" />
@@ -18,20 +20,10 @@ I'm a Software Engineering student at [**Asia Pacific University (APU)**](https:
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-## Contribution Snake 🐍
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hygan06/hygan06/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hygan06/hygan06/output/github-snake.svg" />
-    <img alt="Animated snake moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/hygan06/hygan06/output/github-snake.svg" />
-  </picture>
-</p>
-
 ## Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-hygan06-181717?style=for-the-badge&logo=github)](https://github.com/hygan06)
 
----
-
-*Thanks for stopping by!*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7A5CFA&height=100&section=footer" alt="Decorative blue and purple wave footer" />
+</p>
