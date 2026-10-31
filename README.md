@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Asia+Pacific+University+(APU)" alt="Typing animation: Software Engineering Student at Asia Pacific University (APU)" />
 </p>
 
-I'm a Software Engineering student at **Asia Pacific University (APU)**.
+I'm a Software Engineering student at [**Asia Pacific University (APU)**](https://www.apu.edu.my/).
 
 ## Languages I've learned
 
