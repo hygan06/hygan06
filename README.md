@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7A5CFA&height=180&section=header&text=Hong%20Yu&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Colorful animated wave banner with Hong Yu's name" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7A5CFA&height=180&section=header&text=Hi%2C%20I%27m%20HongYu&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Colorful animated wave banner saying Hi, I'm HongYu" />
 </p>
 
 <p align="center">
