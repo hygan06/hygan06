@@ -1,19 +1,15 @@
-### Hi I'm Hong Yu 👋
+# Hi, I'm Hong Yu 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hygan06)](https://github.com/anuraghazra/github-readme-stats)
+I'm a software developer who enjoys building projects and learning new things along the way.
 
+- 🌱 Currently learning and exploring new technologies
+- 💻 Check out my public repositories below
+- 📫 Find me on [GitHub](https://github.com/hygan06)
 
-<!--
-**hygan06/hygan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub
 
-Here are some ideas to get you started:
+[![Hong Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hygan06&show_icons=true&hide_title=true)](https://github.com/hygan06)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*Thanks for stopping by!*
