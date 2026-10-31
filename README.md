@@ -8,7 +8,6 @@ I'm a software developer who enjoys building projects and learning new things al
 
 ## GitHub
 
-[![Hong Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hygan06&show_icons=true&hide_title=true)](https://github.com/hygan06)
 
 ---
 
