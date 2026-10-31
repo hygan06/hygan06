@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7A5CFA&height=180&section=header&text=Hi%2C%20I%27m%20HongYu&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Colorful animated wave banner saying Hi, I'm HongYu" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7A5CFA&height=180&section=header&text=Hi%2C%20I%27m%20HongYu&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="banner" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Asia+Pacific+University+(APU)" alt="Typing animation: Software Engineering Student at Asia Pacific University (APU)" />
 </p>
 
-I'm a Software Engineering student at [**Asia Pacific University (APU)**](https://www.apu.edu.my/).
+I'm a Software Engineering student at [**Asia Pacific University (APU)**](https://www.apu.edu.my/). 👨‍💻
 
 ## Languages I've learned
 
